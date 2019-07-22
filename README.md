@@ -1,2 +1,0 @@
-# Boilerplate
- Project Setup
